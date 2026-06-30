@@ -1,0 +1,19 @@
+Scheme,Sample_Size,TP,FP
+After (Post-hoc),200,7.7,17.4
+After (Post-hoc),500,8.7,13.9
+After (Post-hoc),1000,10.0,10.6
+After (Post-hoc),2000,13.1,6.5
+After (Post-hoc),5000,19.3,4.8
+After (Post-hoc),10000,24.5,3.6
+Before (Blacklist),200,7.8,19.1
+Before (Blacklist),500,8.8,15.1
+Before (Blacklist),1000,10.3,11.0
+Before (Blacklist),2000,13.2,6.5
+Before (Blacklist),5000,19.4,4.8
+Before (Blacklist),10000,24.7,3.5
+Score (Soft Penalty),200,7.9,19.7
+Score (Soft Penalty),500,8.8,15.4
+Score (Soft Penalty),1000,10.4,11.0
+Score (Soft Penalty),2000,13.2,6.5
+Score (Soft Penalty),5000,19.4,4.8
+Score (Soft Penalty),10000,24.7,3.5
